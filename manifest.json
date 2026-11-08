@@ -1,0 +1,56 @@
+{
+  "name": "itzkxtee",
+  "version": 4,
+  "edition": "KT Signature",
+  "output": "C:\\Users\\poco\\Documents\\Codex\\2026-11-07\\referenced-chatgpt-conversation-this-is-an\\outputs\\ItzKxtee-XboxOne-v4",
+  "geometrySource": "C:\\Users\\poco\\Documents\\Codex\\2026-11-07\\referenced-chatgpt-conversation-this-is-an\\work\\signature-v3-source\\ItzKxtee-XboxOne-v3",
+  "sourceLogo": "D:/kate skin/kt_logo.png",
+  "sourceLogoSHA256": "4de9a68eb212430a8a2dbcc11dd60c4efc1b11ecefab738ef5f30f5c47b6f535",
+  "dimensions": [
+    750,
+    630
+  ],
+  "assets": [
+    "base",
+    "abxy",
+    "bumper",
+    "disconnected",
+    "dpad",
+    "quadrant",
+    "start-select",
+    "stick",
+    "trigger"
+  ],
+  "language": "en",
+  "palette": {
+    "graphite": "#222129",
+    "pearl": "#EEF0F4",
+    "rose": "#E42A88"
+  },
+  "sourceVersion": 3,
+  "refinements": {
+    "logoBox": [
+      344,
+      162,
+      62,
+      58
+    ],
+    "inlayOrigin": [
+      374,
+      237.376
+    ],
+    "pearlUsesTrueFrontFace": true
+  },
+  "guideGlow": {
+    "selector": ".xbox .meta.pressed",
+    "logoBox": [
+      344,
+      162,
+      62,
+      58
+    ],
+    "color": "#FF3B9D",
+    "heldOnly": true
+  },
+  "bodyFinish": "Pearl, graphite, satin grain, molded palm joins"
+}
