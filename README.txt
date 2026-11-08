@@ -12,7 +12,6 @@ assets/kt-logo.svg / .png: supplied official mark, unchanged from its export.
 Preview*.png / .svg: transparent idle, active, and disconnected previews.
 Presentation.png / .svg: full design overview.
 Detail.png / .svg: enlarged material and control detail.
-CHANGES.md, VALIDATION.md, manifest.json: notes and checks.
 
 REFERENCE
 The supplied Trackmania car colors and official KT mark remain the brand
